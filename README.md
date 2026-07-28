@@ -1,7 +1,7 @@
 
 # YtooVPN专线机场官方地址(2026年7月28日更新)
 YtooVPN专线机场官网地址</br>
-官方地址：[y-too.net](https://y-too.net/aff.php?aff=9965)</br>
+官方地址：[y-too.net](https://to.iix.im/yt01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
@@ -22,9 +22,11 @@ YToo采用IEPL专线与三入口BGP优化，线路稳定、延迟较低，晚高
 | Global Accelerate Team | Team Lite | ￥499.00/月 | 3000GiB | 中国大陆多线优化、国际专线传输、海外常用国家/地区落地 | 多种流媒体、ChatGPT | 2000Mbps | 仅限团队成员使用  | 20 IP | 高级技术支持 |
 | Global Accelerate Team | Team Pro  | ￥899.00/月 | 5000GiB | 中国大陆多线优化、国际专线传输、海外常用国家/地区落地 | 多种流媒体、ChatGPT | 2000Mbps | 仅限团队成员使用  | 30 IP | 高级技术支持 |
 ## 📊 性能实测与分析  
-#### 1.晚高峰测速表现  
-![image](?raw=ture)  
-#### 2.流媒体解锁报告  
-![image](?raw=ture)    
-#### 3.落地入口分析  
-![image](?raw=ture)
+#### 1.联通晚高峰测速表现及流媒体解锁报告
+![image](https://github.com/jdnei/ytoo/blob/main/ytoo/20260728_6a68552a9f8f5l.jpg?raw=ture)  
+#### 2.电信晚高峰测速表现及流媒体解锁报告
+![image](https://github.com/jdnei/ytoo/blob/main/ytoo/20260728_6a68555292eabd.jpg?raw=ture) 
+#### 3.移动晚高峰测速表现及流媒体解锁报告
+![image](https://github.com/jdnei/ytoo/blob/main/ytoo/20260728_6a68557471c12y.jpg?raw=ture) 
+#### 4.落地入口分析  
+![image](https://github.com/jdnei/ytoo/blob/main/ytoo/20260728_6a6855948d0a8.png?raw=ture)
