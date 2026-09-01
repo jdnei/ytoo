@@ -1,5 +1,5 @@
 
-# YtooVPN专线机场官方地址(2026年8月31日更新)
+# YtooVPN专线机场官方地址(2026年9月1日更新)
 YtooVPN专线机场官网地址</br>
 官方地址：[y-too.net](https://to.iix.im/yt01)</br>
 
