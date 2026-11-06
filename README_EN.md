@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# YtooVPN Dedicated-Line VPN Official Website (Updated November 5, 2026)
+# YtooVPN Dedicated-Line VPN Official Website (Updated November 6, 2026)
 
 Official YtooVPN Website<br>
 Official URL: [y-too.net](https://to.iix.im/yt01)<br>

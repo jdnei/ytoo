@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# YtooVPN歪兔专线机场官方地址(2026年11月5日更新)
+# YtooVPN歪兔专线机场官方地址(2026年11月6日更新)
 YtooVPN歪兔专线机场官网地址</br>
 最新地址：[y-too.net](https://to.iix.im/yt01)</br>
 官方地址：[www.to-ytoo.xyz](https://to.iix.im/yt01)</br>
