@@ -12,9 +12,9 @@ YtooVPN歪兔专线机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 优惠码/折扣码
-`8.5折，截止日期：10:31日，不包括 Air / Team 套餐`
+`8.5折，截止日期：未知，不包括 Air / Team 套餐`
 ```bash
-MV3M88XZM
+PKR722
 ```
 ## 简介
 YToo歪兔是一家主打IEPL专线的网络加速服务，提供多地区节点，适合流媒体、AI工具及跨境访问用。
